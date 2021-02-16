@@ -1,9 +1,10 @@
-Histoire :
+Histoire
+--------
 
-Concu à la fin du XXe siècle :-) par Andy Stanford-Clark (IBM) et Arlen Nipper (EuroTech),
-afin de surveiller un oléoduc dans le désert (bande passante faible et couteuse via un satellite).
+	Concu à la fin du XXe siècle :-) par Andy Stanford-Clark (IBM) et Arlen Nipper (EuroTech),
+	afin de surveiller un oléoduc dans le désert (bande passante faible et couteuse via un satellite).
 
-Avantage : leger, peu gourmand en ressources, idéal pour l'IoT.
+	Avantage : leger, peu gourmand en ressources, idéal pour l'IoT.
 
 
 A) Installation du broker Mosquitto
