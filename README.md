@@ -157,8 +157,8 @@ C) Developpement d'un producer (publisher) full Java
 
 On utilisera le client du projet eclipse PAHO.
 
-1 client producer et 1 client consummer d'une simple donnée numerique (integer)
-1 client producer et 1 client consummer de données financières (CSV sur REST) serialisées en JSON
+* 1 client producer et 1 client consummer d'une simple donnée numerique (integer)
+* 1 client producer et 1 client consummer de données financières (CSV sur REST) serialisées en JSON
 
 
 Annexe
